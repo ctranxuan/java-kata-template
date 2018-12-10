@@ -1,0 +1,6 @@
+= Java project template for Katas
+
+This is a very simple Java project for Katas.
+
+It uses https://junit.org/junit5/[JUnit 5] by default and possibly
+http://joel-costigliola.github.io/assertj/[AssertJ] (uncomment the dependency).
